@@ -4,7 +4,7 @@ The ui folder contains the front end code of the application.
 
 #Please clone the repo to get started.
 
-In the main directory, execute:
+# In the main directory, execute:
 ### `npm install `
 to install the dependencies.
 
